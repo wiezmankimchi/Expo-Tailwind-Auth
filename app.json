@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "icon": "./assets/apple.png",
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ]
+    ],
+    "name": "nailSalonBooking",
+    "slug": "nailSalonBooking",
+    "android": {
+      "package": "com.anonymous.nailSalonBooking"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.nailSalonBooking"
+    }
+  }
+}
