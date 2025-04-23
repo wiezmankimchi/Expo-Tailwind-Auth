@@ -15,13 +15,13 @@
         }
       ]
     ],
-    "name": "nailSalonBooking",
-    "slug": "nailSalonBooking",
+    "name": "expoTailwindAuth",
+    "slug": "expoTailwindAuth",
     "android": {
-      "package": "com.anonymous.nailSalonBooking"
+      "package": "com.anonymous.expoTailwindAuth"
     },
     "ios": {
-      "bundleIdentifier": "com.anonymous.nailSalonBooking"
+      "bundleIdentifier": "com.anonymous.expoTailwindAuth"
     }
   }
 }
